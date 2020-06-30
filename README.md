@@ -1,2 +1,6 @@
 # Express-Boiler-Plate
-Boiler-plate node.js with express
+
+Boiler-plate node.js with
+
+- express
+- nodemon
